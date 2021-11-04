@@ -21,3 +21,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# yarn.lock
+yarn.lock
+
+# package-lock.json
+package-lock.json
